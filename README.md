@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Cem Demirci</h1>
 
-<h3 align="center">I am an industrial engineering student at Duzce University.</h3>
+<h3 align="center">I am an Industrial Engineering student at Duzce University.</h3>
 <h3 align="center">I try to take myself one step further every day by producing various projects in C# and .NET</h3>
 
 
